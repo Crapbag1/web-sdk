@@ -1,6 +1,6 @@
 export default {
-	providerName: 'sample_provider',
-	gameName: 'sample_lines',
+	providerName: 'PlayPulse',
+	gameName: 'Shutter!',
 	gameID: '0_0_lines',
 	rtp: 0.97,
 	numReels: 5,
