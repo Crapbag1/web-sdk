@@ -1,6 +1,6 @@
 export default {
 	providerName: 'PlayPulse',
-	gameName: 'Shutter!',
+	gameName: 'Gold Fever!',
 	gameID: '0_0_lines',
 	rtp: 0.97,
 	numReels: 5,
